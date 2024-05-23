@@ -5,7 +5,6 @@
 - 📫 How to reach: m.aiissatoudiallo@gmail.com
 - ✨ Hobbies: Enjoy coding, I like reading & art, I like photography too, beautiful view🌅.
 - 🗣 Languages: Je parle couramment le français & I have a good level in English.
-- 😄 Pronouns:She/Her
 <!---
 Aiissat/Aiissat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
