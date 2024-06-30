@@ -1,6 +1,6 @@
 👋 Hi, I’m Aïssatou
 - 🌱 I’m currently learning Software Development at GOMYCODE👩🏽‍💻.
-- 💪🏽 SKills: I have learned to use HTML5, CSS3, and some of this frameworks (Bootstrap, Tailwind), JavaScript with DOM. (In process🤭)
+- 💪🏽 SKills: I have learned to use HTML5, CSS3, and some of this frameworks (Bootstrap, Tailwind), JavaScript with DOM and ES6.
 - 🔎 I’m looking for an internship as a junior software developer.
 - 📫 How to reach: m.aiissatoudiallo@gmail.com
 - ✨ Hobbies: Enjoy coding, I like reading & art, I like photography too, beautiful view🌅.
